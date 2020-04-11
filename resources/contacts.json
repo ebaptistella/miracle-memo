@@ -1,0 +1,37 @@
+[
+    {
+      "guid": "1795f91d-01e6-4b9e-baef-fcd13935cd91",
+      "name": "Maggie Case",
+      "gender": "female",
+      "email": "maggiecase@orbean.com",
+      "phone": "+55 (095) 7 4923-002"
+    },
+    {
+      "guid": "4f9f1749-7609-4ee9-b3ff-56f4c2c09550",
+      "name": "Mccullough Blackburn",
+      "gender": "male",
+      "email": "mcculloughblackburn@orbean.com",
+      "phone": "+55 (092) 6 5622-186"
+    },
+    {
+      "guid": "26e4711e-7d26-4afb-bad6-8ad4aef779fb",
+      "name": "Brittney Cardenas",
+      "gender": "female",
+      "email": "brittneycardenas@orbean.com",
+      "phone": "+55 (089) 9 4983-950"
+    },
+    {
+      "guid": "6e0991b8-639f-4202-9895-96df4bc28074",
+      "name": "Tricia Hawkins",
+      "gender": "female",
+      "email": "triciahawkins@orbean.com",
+      "phone": "+55 (082) 0 5753-777"
+    },
+    {
+      "guid": "bdcf4676-1218-4e67-b131-9e49b5e76825",
+      "name": "Hopper Cabrera",
+      "gender": "male",
+      "email": "hoppercabrera@orbean.com",
+      "phone": "+55 (090) 4 4303-104"
+    }
+  ]
